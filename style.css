@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e7ffde;
+}
+
+#projects {
+  background-color: #e7ffde;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.cloud {
+  vertical-align: text-top;
+}
